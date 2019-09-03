@@ -16,9 +16,7 @@ The One-lead ECG is a portable ECG monitor with touch sensing capacitive sensors
   
   The screen will be divided into two sections, one to display date and time and one to display the ECG graph.
   The screen is 128x128. The first section will be 28x128 and the second section will be 100x128.
-  
-  //=========================================================================================================
-  
+    
   Download these libraries for this project:
     The LCD requires the Adafruit_ST7735 library which can be downloaded from the Arduino IDE itself:
       1) Go to Sketch -> Include Library -> Manage Libraries
@@ -38,8 +36,7 @@ The One-lead ECG is a portable ECG monitor with touch sensing capacitive sensors
     OpenLog requires firmware and two libraries (SdFat and SerialPort). Download zip from link below and include libraries:
       Linke: https://learn.sparkfun.com/tutorials/openlog-hookup-guide/all
   
-  //=========================================================================================================
-  
+ 
   Some useful links for setup and library specifications are listed below:
    DIY ECG EKG Portable Heart Monitor: https://www.instructables.com/id/DIY-ECG-EKG-Portable-Heart-Monitor/
    
@@ -51,13 +48,13 @@ The One-lead ECG is a portable ECG monitor with touch sensing capacitive sensors
    Adafruit GFX Library (graphics): https://learn.adafruit.com/adafruit-gfx-graphics-library/graphics-primitives
    Button Hardware: https://www.arduino.cc/en/tutorial/button
    Interrupt Routine: https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/
- 
- //=========================================================================================================
+   
   
-  Setpup and instructions (NOT 100% IMPLEMETED YET):
+  Setpup and instructions:
    *The one-lead ECG monitor is meant to be easy to use with little instructions.
    1) Turn Arduino on using button switch.
    2) Wait for screen to become blank (initialize)
    3) After screen prompts user to begin, user can place two fingers from both hands on two separate touch sensors for 30 seconds (data will save)
    4) Turn Arduino off using button switch. 
+   
  ***********************************************************************************************************/
