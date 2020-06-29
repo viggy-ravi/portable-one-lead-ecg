@@ -44,9 +44,13 @@ The One-lead ECG is a portable ECG monitor with touch sensing capacitive sensors
    
    
    Real Time Clock Setup: http://misclab.umeoce.maine.edu/boss/Arduino/bensguides/DS3231_Arduino_Clock_Instructions.pdf
+   
    OpenLog Setup: https://learn.sparkfun.com/tutorials/openlog-hookup-guide/all
+   
    Adafruit GFX Library (graphics): https://learn.adafruit.com/adafruit-gfx-graphics-library/graphics-primitives
+   
    Button Hardware: https://www.arduino.cc/en/tutorial/button
+   
    Interrupt Routine: https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/
    
   
