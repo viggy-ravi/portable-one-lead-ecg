@@ -18,7 +18,8 @@
     
   Download these libraries for this project:
   
-    The LCD requires the Adafruit_ST7735 library which can be downloaded from the Arduino IDE itself:
+  The LCD requires the Adafruit_ST7735 library which can be downloaded from the Arduino IDE itself:
+    
     1) Go to Sketch -> Include Library -> Manage Libraries
     2) Type in ST7735 and install the library by Adafruit
     Git link: https://github.com/adafruit/Adafruit-ST7735-Library
