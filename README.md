@@ -4,8 +4,7 @@
     Group 5: Truc Do, Matthew Nepo, Vignesh Ravindranath, Jacob Scheftel
     Written by: Vignesh Ravindranath
   
-  The One-lead ECG is a portable ECG monitor with touch sensing capacitive
-  sensors for pulse detection. The device uses:
+  The device uses:
   
     1.44" LCD TFT 128x128 Pixel Display (ST7735)
     Heart Rate Monitor (AD8232)
@@ -51,10 +50,10 @@
     Button Hardware: https://www.arduino.cc/en/tutorial/button
     Interrupt Routine: https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/
    
-  Setpup and instructions:
+  Set up and instructions:
 
     *The one-lead ECG monitor is meant to be easy to use with little instructions.
-    1) Turn Arduino on using button switch.
+    1) Turn Arduino on using button switch
     2) Wait for screen to become blank (initialize)
-    3) After screen prompts user to begin, user can place two fingers from both hands on two separate touch sensors for 30 seconds (data will save)
-    4) Turn Arduino off using button switch. 
+    3) To begin, user can place both thumbs on the touch sensors for 30 seconds
+    4) Turn Arduino off using button switch 
