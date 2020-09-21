@@ -21,11 +21,10 @@
     
     1) Go to Sketch -> Include Library -> Manage Libraries
     2) Type in ST7735 and install the library by Adafruit
-    Git link: https://github.com/adafruit/Adafruit-ST7735-Library
+  - Git link: https://github.com/adafruit/Adafruit-ST7735-Library
     
   The LCD also requies a graphics library: Adafruit_GFX. It can be downloaded the same way as the ST7735.
-    
-    Git link: https://github.com/adafruit/Adafruit-GFX-Library
+  - Git link: https://github.com/adafruit/Adafruit-GFX-Library
       
   The Real Time Clock requires it's own library to access dates and times. There are many libraries for this
   but in this project the DS3231 library is used:
@@ -34,21 +33,19 @@
     2) Go to Sketch -> Include Library -> Add ZIP Library
     3) Click on the .zip file
       
-    Link: http://www.rinkydinkelectronics.com/library.php?id=73
+  - Link: http://www.rinkydinkelectronics.com/library.php?id=73
   
   OpenLog requires firmware and two libraries (SdFat and SerialPort). Download zip from link below and include libraries:
-    
-    Link: https://learn.sparkfun.com/tutorials/openlog-hookup-guide/all
+  - Link: https://learn.sparkfun.com/tutorials/openlog-hookup-guide/all
   
   Some useful links for setup and library specifications are listed below:
-  
-    DIY ECG EKG Portable Heart Monitor: https://www.instructables.com/id/DIY-ECG-EKG-Portable-Heart-Monitor/
-    Heart Rate Monitor Setup: https://learn.sparkfun.com/tutorials/ad8232-heart-rate-monitor-hookup-guide/all#uploading-the-sketch-and-connecting-with-processing
-    Real Time Clock Setup: http://misclab.umeoce.maine.edu/boss/Arduino/bensguides/DS3231_Arduino_Clock_Instructions.pdf
-    OpenLog Setup: https://learn.sparkfun.com/tutorials/openlog-hookup-guide/all
-    Adafruit GFX Library (graphics): https://learn.adafruit.com/adafruit-gfx-graphics-library/graphics-primitives
-    Button Hardware: https://www.arduino.cc/en/tutorial/button
-    Interrupt Routine: https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/
+  - DIY ECG EKG Portable Heart Monitor: https://www.instructables.com/id/DIY-ECG-EKG-Portable-Heart-Monitor/
+  - Heart Rate Monitor Setup: https://learn.sparkfun.com/tutorials/ad8232-heart-rate-monitor-hookup-guide/all#uploading-the-sketch-and-connecting-with-processing
+  - Real Time Clock Setup: http://misclab.umeoce.maine.edu/boss/Arduino/bensguides/DS3231_Arduino_Clock_Instructions.pdf
+  - OpenLog Setup: https://learn.sparkfun.com/tutorials/openlog-hookup-guide/all
+  - Adafruit GFX Library (graphics): https://learn.adafruit.com/adafruit-gfx-graphics-library/graphics-primitives
+  - Button Hardware: https://www.arduino.cc/en/tutorial/button
+  - Interrupt Routine: https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/
    
   Set up and instructions:
 
